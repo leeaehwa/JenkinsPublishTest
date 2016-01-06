@@ -1,4 +1,4 @@
-package com.ahfactory.jenkinspublishtest;
+package com.ahfactory.testjenkinspublish;
 
 import android.app.Activity;
 import android.os.Bundle;
